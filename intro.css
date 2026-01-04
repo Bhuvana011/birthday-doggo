@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+    color:rgb(251, 255, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+}
+button{
+
+  width:75px;
+  height:35px;
+  font-size:15px;
+  font-family:'Times New Roman', Times, serif;
+  border-radius: 13px;
+  border-width: 0px;
+  margin-right:5px;
+  background-color:rgb(239, 250, 26);
+  margin-top:20px;
+}
+html{
+    cursor: url('doggo-cursorr.png'), auto;
+}

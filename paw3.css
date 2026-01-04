@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(227, 210, 183);
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+}
+button{
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  width:100px;
+  height:40px;
+  font-size:17px;
+  font-family:'Times New Roman', Times, serif;
+  border-radius: 15px;
+  border-width: 0px;
+  background-color:rgb(183, 176, 146);
+  margin-top:-10px;
+}
+html{
+    cursor: url('doggo-cursorr.png'), auto;
+}
+a{
+    text-decoration: none;
+}

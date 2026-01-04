@@ -1,0 +1,44 @@
+.rufff{
+    width:150px;
+    height:120px;
+    margin-right:10px;
+    margin-left:5px;
+    margin-top:5px;
+}
+.containss{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+.ruffff{
+    width:140px;
+    height:150px;
+    margin-right:10px;
+    margin-left:5px;
+    margin-top:5px;
+}
+body{
+    background-color:rgb(244, 253, 229);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    font-weight:normal;
+    margin-top:-15px;
+}
+button{
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  width:100px;
+  height:40px;
+  font-size:17px;
+  font-family:'Times New Roman', Times, serif;
+  border-radius: 15px;
+  border-width: 0px;
+  background-color:rgb(249, 237, 135);
+  margin-top:-10px;
+}
+html{
+    cursor: url('doggo-cursorr.png'), auto;
+}

@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: rgb(244, 215, 220);
+    font-family:'Times New Roman', Times, serif;
+}
+.bow-right{
+    float:right;
+    width:200px;
+    margin-top: -175px;
+}
+.bow-left{
+    float:left;
+    width:200px;
+    margin-top: -175px;
+}
+.paww{
+    width:250px;
+}
+.container{
+    position:relative;
+}
+html{
+    cursor: url('doggo-cursorr.png'), auto;
+}
+.haj{
+    width:100px;
+    margin-top:450px;
+    margin-left:1150px;
+    float:right;
+    animation: swim 10s linear infinite;
+}
+
+@keyframes swim{
+    0%{
+        transform: translateX(5vw);
+    }
+    50%{
+        transform: translateX(-100vw);
+    }
+    100%{
+        transform: translateX(5vw)
+    }
+}
